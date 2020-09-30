@@ -1,34 +1,4 @@
-/*
-  Theme Name: Xconsulta - Business & Starup HTML5 Template
-  Support: admin@gmail.com
-  Description: Business  HTML5 template.
-  Version: 1.0
-*/
 
-/* CSS Index
------------------------------------
-1. Theme default css
-2. header
-3. slider
-4. about
-5. features
-6. services
-7. video
-8. choose
-9. brand
-10. work-process
-11. team
-12. counter
-13. cta
-14. testimonial
-15. blog
-16. pagination
-17. f-cta
-18. pricing
-19. contact
-20. footer
-
-*/
 
 /* 1. Theme default css */
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto:400,400i,500,500i,700,700i,900,900i&amp;display=swap');
@@ -237,25 +207,25 @@ label {
 
 .btn {
     -moz-user-select: none;
-    background: #c42c28;
+	background: #c42c28;
     box-shadow: 3px 4px 25px #C63A9580;
-    border: none;
-    border-radius: 50px;
-    color: #fff;
-    display: inline-block;
-    font-size: 16px;
-    font-weight: 500;
-    letter-spacing: 0;
-    line-height: 1;
-    margin-bottom: 0;
-    padding: 15px 35px;
-    text-align: center;
-    text-transform: unset;
-    touch-action: manipulation;
-    transition: all 0.3s ease 0s;
-    vertical-align: middle;
-    white-space: nowrap;
-    position: relative;
+	border: none;
+	border-radius: 50px;
+    color: #FFFFFF ;
+	display: inline-block;
+	font-size: 16px;
+	font-weight: 500;
+	letter-spacing: 0;
+	line-height: 1;
+	margin-bottom: 0;
+	padding: 15px 35px;
+	text-align: center;
+	text-transform: unset;
+	touch-action: manipulation;
+	transition: all 0.3s ease 0s;
+	vertical-align: middle;
+	white-space: nowrap;
+	position: relative;
 }
 
 .btn:hover {
@@ -3310,7 +3280,7 @@ div.single-cta:last-child {
 }
 
 .poppuler .btn {
-    background: transparent linear-gradient(90deg, #7D4196 0%, #FF3494 100%) 0% 0% no-repeat padding-box;
+    background: transparent linear-gradient(90deg, #060001de 0%, #c31616 100%) 10% 0% no-repeat padding-box;
     color: #fff;
     border-color: #fff;
     padding: 10px 28px;
@@ -3416,7 +3386,7 @@ div.single-cta:last-child {
 }
 
 .pricing-box.active {
-    border: 3px solid #e9369447;
+    border: 3px solid #be1616b3;
 }
 
 .pricing-box.active .price-count span {
@@ -3433,7 +3403,7 @@ div.single-cta:last-child {
 }
 
 .pricing-box.active .pricing-btn .btn {
-    background: transparent linear-gradient(90deg, #7D4196 0%, #FF3494 100%) 0% 0% no-repeat padding-box;
+    background: transparent linear-gradient(90deg, #060001de 0%, #c31616 100%) 10% 0% no-repeat padding-box;
     color: #fff;
     border-color: #fff;
 }
@@ -5485,4 +5455,42 @@ pre cite {
     padding:25px;
     border-radius: 13px;
     background: transparent linear-gradient(90deg, #151211 40%, #FF3494 100%) 0% 0% no-repeat padding-box;
+}
+
+.single-testimonoal-p{
+    
+    padding-left: 0px !important;
+}
+
+
+.product-img-6 {
+    background: url(../background/112/Layer-29.png) no-repeat;
+    background-position: center;
+    min-height: 450px;  
+}
+
+.product-img-1 {
+    background: url(../background/112/Layer-24.png) no-repeat;
+    background-position: center;
+    min-height: 450px;  
+}
+.product-img-2 {
+    background: url(../background/112/Layer-25.png) no-repeat;
+    background-position: center;
+    min-height: 450px;  
+}
+.product-img-3 {
+    background: url(../background/112/Layer-32.png) no-repeat;
+    background-position: center;
+    min-height: 450px;  
+}
+.product-img-4{
+    background: url(../background/112/Layer-26.png) no-repeat;
+    background-position: center;
+    min-height: 450px;  
+}
+.product-img-5 {
+    background: url(../background/112/Layer-28.png) no-repeat;
+    background-position: center;
+    min-height: 450px;  
 }

@@ -179,7 +179,7 @@ $('.testimonial-active').slick({
 	prevArrow: '<button type="button" class="slick-prev"><i class="icon dripicons-arrow-thin-left"></i></button>',
 	nextArrow: '<button type="button" class="slick-next"><i class="icon dripicons-arrow-thin-right"></i></button>',
 	speed: 1000,
-	slidesToShow: 3,
+	slidesToShow: 4,
 	slidesToScroll: 1,
 	responsive: [
 		{
