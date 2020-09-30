@@ -2,7 +2,7 @@
 @media (min-width: 1200px) and (max-width: 1500px) {
     .chosse-img {
     width: 570px;
-  
+
 }
     #features {
     padding-top: 60px;
@@ -19,10 +19,7 @@
     .video-img2 .popup-video img {
     width: auto;
 }
-    .chosse-img2{
-      left: 0;
-        width: 45%;
-    }
+
     .ss-eight {
     top: 70px !important;
     left: 40% !important;
@@ -132,11 +129,11 @@ padding-bottom: 50px !important;
 .footer-social a {
     margin-right: 9px;
 }
-    
+
     .pricing-body {
     padding: 0px 15px 35px;
 }
-    
+
 .container-p {
 	padding: 0 30px;
 }
@@ -340,7 +337,7 @@ padding-bottom: 50px !important;
     .contact-img2 {
     margin-left: 0;
 }
-    
+
 .container-p {
 	padding: 0 30px;
 }
@@ -594,7 +591,7 @@ padding-bottom: 50px !important;
     margin-left: 0;
     margin-bottom: 50px;
 }
-    
+
 	.slider-bg2 .slider-content > span {
     font-size: 18px;
 }
@@ -643,7 +640,7 @@ padding-bottom: 50px !important;
 .has-mega-menu{
         position:relative;
     }
-	 
+
     li.has-sub.has-mega-menu ul{
         position: relative;
         top: 0px; /*insert the needed value*/
@@ -656,9 +653,9 @@ padding-bottom: 50px !important;
     /*flexbox fallback for browsers that do not support CSS GRID lyout*/
         display: flex;
         flex-wrap: wrap;
-    /*CSS GRID lyout*/ 
+    /*CSS GRID lyout*/
         display: grid;
-        grid-template-columns: repeat(auto-fit,minmax(100%, 1fr));   
+        grid-template-columns: repeat(auto-fit,minmax(100%, 1fr));
 		margin-left: 0px;
 		height:200px;
 		overflow:auto;
@@ -666,8 +663,8 @@ padding-bottom: 50px !important;
 	.timeline {
 
     padding: 50px 0px 50px 50px;
-   
-}	
+
+}
 	.tag-template img {
     width: 100% !important;
 }
@@ -733,7 +730,7 @@ padding-bottom: 50px !important;
 	.wp-block-gallery li {
     width: 50%;
 	}
-	
+
 .main-menu .has-sub > ul {
     display: none;
     position: relative;
@@ -752,7 +749,7 @@ padding-bottom: 50px !important;
     width: 100%;
     margin-bottom: 10px;
 	margin-left:0;
-	margin-top:0;	
+	margin-top:0;
 	padding-left:15px;
 	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0);
 	border-top:1px solid #f7f7f7;
@@ -902,7 +899,7 @@ border-bottom: none;
 }
 .breadcrumb-area {
     padding-top: 100px;
-    padding-bottom: 100px;   
+    padding-bottom: 100px;
 }
 .menu-area {
 	padding: 20px 0;
@@ -969,7 +966,7 @@ border-bottom: none;
 
 .testimonial-active {
     width: 100%;
-   
+
 }
 .testimonial-active .slick-arrow {
     width: 87%;
@@ -1252,4 +1249,8 @@ border-bottom: none;
 	padding: 50px 40px;
 }
 
+}
+p{
+	font-size: 18px;
+    line-height: 25px;
 }
